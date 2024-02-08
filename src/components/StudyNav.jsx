@@ -15,10 +15,10 @@ const StudyNav = () => {
         <Link class="nav-link text-white" to="/">Add Course</Link>
       </li>
       <li class="nav-item">
-        <Link class="nav-link text-white" to="/viewblog">View Course </Link>
+        <Link class="nav-link text-white" to="/viewcourse">View Course </Link>
       </li>
       <li class="nav-item">
-        <Link class="nav-link text-white" to="/searchblog">search Course </Link>
+        <Link class="nav-link text-white" to="/searchcourse">search Course </Link>
       </li>
     </ul>
   </div>
